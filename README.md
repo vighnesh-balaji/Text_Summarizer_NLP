@@ -1,5 +1,14 @@
 # Text_Summarizer_AWS
 End-to-end text summarizer with server deployment
+- Utilized the pretrained Google pegasus-cnn dailymail model.
+- Trained the model using custom datasets
+- Tokenized the input using transformers
+- Created a metric function to calculate the accuracy
+- Saved the pickle file of the model and built a docker image
+- Built a FastAPI interface with a customizable output length for text summarization
+- Deployed the solution on AWS by utilizing ECR, EC2 virtual machines, and GitHub Actions
+
+  
 # End to end Text-Summarizer-Project
 
 ## Workflows
