@@ -20,7 +20,7 @@ End-to-end text summarizer with server deployment
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Text-Summarization
+(https://github.com/vighnesh-balaji/Text_Summarizer_NLP.git)
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
